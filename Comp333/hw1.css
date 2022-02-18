@@ -139,7 +139,7 @@ a:hover {
 .navbar li {
     width: 150 px;
     background-color: #000;
-    border: 1px solid red;
+    border: 1px solid #FF77CC;
     /* 
         Show the navbar elements next to each other instead of on top of each 
         other. 
